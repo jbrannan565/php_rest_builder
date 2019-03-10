@@ -6,6 +6,7 @@ Usage:
 
 2. Edit setup.py, writing data models as sqlalchemy.Base classes.
 	EXAMPLES:
+
 	    class Todo(Base):
 		__tablename__ = "todo"
 		id = Column(Integer, primary_key=True)
