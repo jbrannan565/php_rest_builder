@@ -1,0 +1,2 @@
+Create interface for foreign key relationships.
+Add JWT authentication. (setting in config.json?)

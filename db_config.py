@@ -34,4 +34,5 @@ class DB:
                 print("config/dbclass.php created")
             
 
+os.system("rm -r output/*")
 db = DB()

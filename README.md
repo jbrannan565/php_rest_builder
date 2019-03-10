@@ -20,9 +20,7 @@ Usage:
 		id = Column(Integer, primary_key=True)
 		name = Column(String(100))
 
-3. Delete all contents of ./output directroy.
-
-4. run python build.py
+3. run python build.py
 
 Output:
 All output files will be found in the ./output directory.
